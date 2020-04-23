@@ -1,7 +1,7 @@
 # Responsive accessible Studies
 
 ## A live demo hosted on Zeit Now
-
+https://vue-studies-responsive.now.sh/
 
 ## Why I chose to use a list instead of a table for the studies?
 The rationale behind my thinking was that a table is usually used to display/compare tabular data. In this case, we only have a title, status and a toggle button so semantically it maybe better to use another element. I chose the UL tag as it plays 
