@@ -1,4 +1,4 @@
-# Studies Sano Genetics
+# Responsive accessible Studies
 
 ## A live demo hosted on Zeit Now
 
